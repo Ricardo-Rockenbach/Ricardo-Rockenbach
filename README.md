@@ -54,7 +54,7 @@ Tenho interesse em desenvolvimento de sistemas, manipulação de dados e constru
 ## 📫 Contato
 
 * GitHub: https://github.com/Ricardo-Rockenbach
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/Ricardo-rockenbach/
 
 ---
 
